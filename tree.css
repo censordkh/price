@@ -1,0 +1,42 @@
+.tree {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding: 10px;
+	white-space: nowrap;
+}
+.tree img {
+	border: 0px;
+	height: 18px;
+	vertical-align: text-bottom;
+}
+.tree a {
+	color: #000;
+	text-decoration: none;
+}
+.tree a:hover {
+	color: #345373;
+}
+
+.inst{
+position: absolute;
+border-color:;
+outline: 1px solid #;
+left:200px
+}
+
+.banner{
+position: absolute;
+right: 200px;
+width: 300px;
+}
+
+.cop a{
+position: absolute;
+bottom: 10px;
+left: 45%;
+font-family: courier;
+font-size: 60%;
+
+background-color:;	
+}
+
